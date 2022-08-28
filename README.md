@@ -26,6 +26,7 @@ Or `Send Package` to complete the transaction and recieve a confirmation.
 ## Future Additions
 - Expand the UI so that the user can enter their own address and parcel information for submission
 - To ensure valid addresses, include Shippo's address verification
+- Router and links to make the site easier and more intuitive to navigate
 - Ability to route to a profile page where user can view personal info and past shipments, financial data, etc. 
 - Improve site accessibility
 
