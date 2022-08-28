@@ -30,7 +30,21 @@ Or `Send Package` to complete the transaction.
 - Improve site accessibility
 
 ## Installation
+## Installation
+Stanky Pomodoros is deployed [here](https://bent-quiver.surge.sh/) if you'd like to view it in your browser. You can also run it locally if you'd like by installing this app
 
+###### In your terminal...
+
+`git clone `
+
+
+`cd <<path>>`
+
+
+`npm i`
+
+
+Once all the dependancies are installed run `npm start` and the site should be accessible at http://localhost:3000/.
 
 ## Credits
  [Jerry Vohrer](https://github.com/Jerry-Vrrr) 
