@@ -45,5 +45,5 @@ Or `Send Package` to complete the transaction and recieve a confirmation.
 Once all the dependancies are installed run `npm start` and the site should be accessible at http://localhost:3000/.
 
 ## Credits
- [Jerry Vohrer]([https://github.com/Jerry-Vrrr](https://terminal.turing.edu/profiles/1334)) 
+ [Jerry Vohrer](https://terminal.turing.edu/profiles/1334)) 
 
