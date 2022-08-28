@@ -16,7 +16,9 @@ Once logged in, the user will be greeted with their name/username and be present
 
 They can click `Check Rates` to see their other shipping options. 
 
-Or `Send Package` to complete the transaction and recieve a confirmation.
+`Send Package` to complete the transaction and recieve a confirmation.
+
+Or `Search` for an existing parcel.
 
 
 ## Technology Stack
