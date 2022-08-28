@@ -10,6 +10,8 @@ This application is a simple tool and UI that will allow a user to:
 both simultaneously by passing a shipment’s object id
 5. Retrieve a parcel by specifying its object id or by passing a shipment’s object id
 
+##Product Walk-through
+
 ![Login](https://user-images.githubusercontent.com/92649050/187093518-601d8976-ae46-40d8-8b02-561df6b2dbc7.gif)
 
 On page load, the user will be presented with a login page. User can enter any name they wish. The password for this demo must be a functioning API token. Don't have one? Click [HERE](https://apps.goshippo.com/join?) to create a Shippo account and create an API token.
