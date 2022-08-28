@@ -1,0 +1,14 @@
+.login {
+    display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	align-content: center;
+    border-style: solid;
+    padding: .5em;
+    width: 20em;
+}
+
+.input {
+    margin: .25em;
+}

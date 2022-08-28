@@ -1,0 +1,13 @@
+button {
+    margin: .25em;
+}
+
+.details {
+    border-style: solid;
+    color: rgba(7, 6, 6, 0.874);
+    padding: 1em;
+    margin: 1em;
+}
+.address {
+    padding: .25em;
+}
