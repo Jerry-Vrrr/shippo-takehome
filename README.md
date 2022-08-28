@@ -10,13 +10,19 @@ This application is a simple tool and UI that will allow a user to:
 both simultaneously by passing a shipment’s object id
 5. Retrieve a parcel by specifying its object id or by passing a shipment’s object id
 
+![Login](https://user-images.githubusercontent.com/92649050/187093518-601d8976-ae46-40d8-8b02-561df6b2dbc7.gif)
+
 On page load, the user will be presented with a login page. User can enter any name they wish. The password for this demo must be a functioning API token. Don't have one? Click [HERE](https://apps.goshippo.com/join?) to create a Shippo account and create an API token.
 
-Once logged in, the user will be greeted with their name/username and be presented with an order including their lowest rate by default  for review. 
+![rates](https://user-images.githubusercontent.com/92649050/187093533-9070eb45-0c0a-48a1-99e8-aca3afad4434.gif)
 
-They can click `Check Rates` to see their other shipping options. 
+Once logged in, the user will be greeted with their name/username and be presented with an order including their lowest rate by default  for review. They can click `Check Rates` to see their other shipping options. 
+
+![create-shipment](https://user-images.githubusercontent.com/92649050/187093546-81cc0e0e-ca4a-4742-a586-3b3da27ff564.gif)
 
 `Send Package` to complete the transaction and recieve a confirmation.
+
+![search-ship](https://user-images.githubusercontent.com/92649050/187093579-b9d6017f-0cbf-4a68-ae69-def05d8dc067.gif)
 
 Or `Search` for an existing parcel.
 
